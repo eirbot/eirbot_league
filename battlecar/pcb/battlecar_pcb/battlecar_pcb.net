@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mateck/documents/repositories/eirbot_league/battlecar/pcb/battlecar_pcb/battlecar_pcb.sch)
-    (date "Tue 15 Jan 2019 12:13:06 PM CET")
+    (date "Tue 15 Jan 2019 09:21:49 PM CET")
     (tool "Eeschema 5.0.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -122,7 +122,7 @@
       (tstamp 5C3EFCCE))
     (comp (ref J_BT1)
       (value Conn_01x06)
-      (footprint Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal)
+      (footprint Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical)
       (datasheet ~)
       (libsource (lib Connector_Generic) (part Conn_01x06) (description "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))

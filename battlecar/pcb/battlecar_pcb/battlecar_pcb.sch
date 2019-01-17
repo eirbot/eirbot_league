@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:battlecar_pcb-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -634,7 +635,7 @@ U 1 1 5C416DA0
 P 4450 6000
 F 0 "J_BT1" H 4530 5992 50  0000 L CNN
 F 1 "Conn_01x06" H 4530 5901 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal" H 4450 6000 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 4450 6000 50  0001 C CNN
 F 3 "~" H 4450 6000 50  0001 C CNN
 	1    4450 6000
 	1    0    0    -1  
