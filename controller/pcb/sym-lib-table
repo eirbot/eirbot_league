@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rocket-rescue)(type Legacy)(uri ${KIPRJMOD}/rocket-rescue.lib)(options "")(descr ""))
+)
