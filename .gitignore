@@ -1,4 +1,18 @@
+# general
+*.yml
+
 # Kicad files
 *.bak
 *-bak
 *-cache.lib
+
+# ignore CLION config folder
+.idea/
+cmake-build-debug
+CMakeListsPrivate.txt
+CMakeLists.txt
+
+# ignore pio config
+.pio
+.pioenvs
+.piolibdeps
